@@ -1,0 +1,9 @@
+name: BankSystem
+version: 0.1
+author: Zach_FR
+main: Bank.Main
+description: Bank System
+
+commands:
+  bank:
+    description: Main Command
